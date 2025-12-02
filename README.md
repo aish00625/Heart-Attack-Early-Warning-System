@@ -31,10 +31,20 @@ The entire system is deployed as an interactive **Streamlit dashboard**.
 
 HeartAttackProject/
 │── app.py # Streamlit dashboard
+
+
 │── heart.csv # Dataset
+
+
 │── requirements.txt # Project dependencies
+
+
 │── README.md # Documentation
+
+
 │── screenshots/ # Optional: UI screenshots
+
+
 │── report/ # Optional: PDF documentation
 
 
